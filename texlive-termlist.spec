@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-termlist
 Version:	1.1
-Release:	3
+Release:	4
 Summary:	Label any kind of term with a continuous counter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termlist
