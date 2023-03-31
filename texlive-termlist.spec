@@ -1,6 +1,6 @@
 Name:		texlive-termlist
 Version:	18923
-Release:	1
+Release:	2
 Summary:	Label any kind of term with a continuous counter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termlist
