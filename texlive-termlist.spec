@@ -3,7 +3,7 @@ Version:	18923
 Release:	2
 Summary:	Label any kind of term with a continuous counter
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termlist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/termlist
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termlist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termlist.doc.r%{version}.tar.xz
